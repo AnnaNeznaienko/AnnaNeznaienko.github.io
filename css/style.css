@@ -1,0 +1,13 @@
+img {
+ width:300px; 
+ height:350px;
+}
+.progress {
+ height:25px;	
+
+ --bs-progress-bg: #a94f4f00;
+}
+.btn
+{
+ color: whitesmoke;	
+}
